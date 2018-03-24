@@ -4,7 +4,7 @@
 
 [**Portfolio**](http://www.dinhlegaulois.net/about/)
 
-[**LinkedIn**](www.linkedin.com/in/dinh-huynh)                         
+[**LinkedIn**](https://www.linkedin.com/in/dinh-huynh)                         
 
 [**GitHub**](https://github.com/DinhLeGaulois2)
 
