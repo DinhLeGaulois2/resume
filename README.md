@@ -1,12 +1,12 @@
 # Dinh Huynh: WordPress, React/Redux, MEAN, MERN Stack and Mobile App Developer
 
-**E-mail**: dinh.hu19@yahoo.com | **Phone**: 407-504-9838
+[**E-mail**](dinh.hu19@yahoo.com) | **Phone**: 407-504-9838
 
-**Portfolio**: https://github.com/DinhLeGaulois/portfolio
+[**Portfolio**](http://www.dinhlegaulois.net/about/)
 
-**LinkedIn**: www.linkedin.com/in/dinh-huynh			                         
+[**LinkedIn**](www.linkedin.com/in/dinh-huynh)                         
 
-**GitHub**: https://github.com/DinhLeGaulois2
+[**GitHub**](https://github.com/DinhLeGaulois2)
 
 ---
 
@@ -34,16 +34,9 @@ English, French and Vietnamese
 
 ## WEB DEVELOPMENT EXPERIENCE
 
-### WordPress: "www.dinhlegaulois.net"
+### [WordPress]("www.dinhlegaulois.net")
 
-### Projects ([all](https://github.com/DinhLeGaulois2))
-|               |                                                      Without Database                                                     |                                                   No-SQL (MongoDB/dLab)                                                   |                                                                                                                                                                                                                 SQL (MySQL/sqlite)                                                                                                                                                                                                                |
-|---------------|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ReactJS       |                                                                                                                           | [Quiz (MERN)](https://github.com/DinhLeGaulois2/mongodb_mern_stack_quiz)        |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| React/Redux   | [Calculator](https://github.com/DinhLeGaulois2/react_redux_calculator) |                                                                                                                          | - [Job Search Organizer (MySQL)](https://github.com/DinhLeGaulois2/sql_react_redux_job_search)<br/> - [Job Search Organizer (sqlite)](https://github.com/DinhLeGaulois2/sqlite3_react_redux_job_search)<br/> - [(fake) Spotify (with Sequelize)](https://github.com/DinhLeGaulois2/sql_react_redux_spotify) |
-| Angular       |                                                                                                                           | [Quiz (MEAN)](https://github.com/DinhLeGaulois2/mongodb_mean_stack_quiz)        | - [Job Search Organizer](https://github.com/DinhLeGaulois2/sql_angular2_job_search)                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Angular/Ionic |                                                                                                                           | [Quiz (MEAN + Ionic)](https://github.com/DinhLeGaulois2/mongodb_ionic2_quiz) |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| PHP           |                                                                                                                           | [Quiz](https://github.com/DinhLeGaulois2/mongodb_php_quiz)                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+### [Projects](http://dinhlegaulois.net/about/)
 
 ## PREVIOUS WORK EXPERIENCE
 
