@@ -34,9 +34,9 @@ English, French and Vietnamese
 
 ## WEB DEVELOPMENT EXPERIENCE
 
-### [WordPress]("www.dinhlegaulois.net")
+### [WordPress]("http://www.dinhlegaulois.net")
 
-### [Projects](http://dinhlegaulois.net/about/)
+### [Projects](http://www.dinhlegaulois.net/about/)
 
 ## PREVIOUS WORK EXPERIENCE
 
