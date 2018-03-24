@@ -34,7 +34,7 @@ English, French and Vietnamese
 
 ## WEB DEVELOPMENT EXPERIENCE
 
-### [WordPress]("http://www.dinhlegaulois.net")
+### [WordPress](http://www.dinhlegaulois.net/)
 
 ### [Projects](http://www.dinhlegaulois.net/about/)
 
