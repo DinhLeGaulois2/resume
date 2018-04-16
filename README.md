@@ -36,7 +36,7 @@ English, French and Vietnamese
 
 ### [WordPress](http://www.dinhlegaulois.net/)
 
-### [Projects](http://www.dinhlegaulois.net/about/)
+### [Projects](http://www.dinhlegaulois.net/coding-projects/)
 
 ## PREVIOUS WORK EXPERIENCE
 
