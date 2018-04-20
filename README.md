@@ -1,6 +1,6 @@
 # Dinh Huynh: WordPress, React/Redux, MEAN, MERN Stack and Mobile App Developer
 
-**E-mail**: dinh.hu19@yahoo.com | **Phone**: 407-504-9838
+**E-mail**: dinhlegaulois@gmail.com  | **Phone**: 407-504-9838
 
 [**Portfolio**](http://www.dinhlegaulois.net/about/)
 
