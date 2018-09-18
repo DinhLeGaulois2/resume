@@ -8,7 +8,7 @@
 > •	Seeking a Back-end Web Developer role with Express-NodeJS combining with SQL-Sequelize or MongoDB-Mongoose.
 
 
-##SKILLS SUMMARY: 
+## SKILLS SUMMARY: 
 building 3-tier architecture apps (full stack). Finishing a project which could be used by schools, teachers, libraries or individuals: a document’s classification system using Dewey Decimal System (https://github.com/DinhLeGaulois2/dewey-decimal-system). I work on this project alone, from A to Z: 
 > •	Security: JWT, Passport and BCrypt
 > •	Front-end: React-Redux
@@ -28,7 +28,7 @@ building 3-tier architecture apps (full stack). Finishing a project which could 
 > •	MongoDB/Mongoose
 
 
-## WORK EXPERIENCES:A
+## WORK EXPERIENCES:
 > •	DaVita Lab, Deland, Florida - Lab Assistant - 2015-2016
 > •	Rotisserie, Paris, France - Co-Owner - 2004-2012
 
