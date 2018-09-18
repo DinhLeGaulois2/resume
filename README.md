@@ -10,10 +10,10 @@
 
 ## SKILLS SUMMARY: 
 building 3-tier architecture apps (full stack). Finishing a project which could be used by schools, teachers, libraries or individuals: a document’s classification system using Dewey Decimal System (https://github.com/DinhLeGaulois2/dewey-decimal-system). I work on this project alone, from A to Z: 
-> *	Security: JWT, Passport and BCrypt
-> *	Front-end: React-Redux
-> *	Back-end: Express/NodeJS
-> *	Database: SQL (74 tables) and Sequelize as ORM
+> *	**Security**: JWT, Passport and BCrypt
+> *	**Front-end**: React-Redux
+> *	**Back-end**: Express/NodeJS
+> *	**Database**: SQL (74 tables) and Sequelize as ORM
 
 
 ## WEB DEVELOPMENT EXPERIENCE:
@@ -22,10 +22,10 @@ building 3-tier architecture apps (full stack). Finishing a project which could 
 
 
 ## OTHER TECHNICAL SKILLS:
-> *	MERN and MEAN stack
-> *	CSS/SASS
-> *	Angular 2/5
-> *	MongoDB/Mongoose
+> *	**MERN** and **MEAN** stack
+> *	**CSS/SASS**
+> *	**Angular** (2-5)
+> *	**MongoDB/Mongoose**
 
 
 ## WORK EXPERIENCES:
