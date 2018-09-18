@@ -1,46 +1,43 @@
-# Dinh Huynh: WordPress, React/Redux, MEAN, MERN Stack and Mobile App Developer
+# Dinh HUYNH - Full Stack Web Developer
 
-**E-mail**: dinh.hu19@yahoo.com  | **Phone**: 407-504-9838
+> 1041 Bella Vida Blvd • Orlando, Fl 32828 • dinh.hu19@yahoo.com • 407-504-9838
+> https://github.com/DinhLeGaulois2 • http://www.dinhlegaulois.net • www.linkedin.com/in/dinh-huynh
 
-[**Portfolio**](http://www.dinhlegaulois.net/about/)
-
-[**LinkedIn**](https://www.linkedin.com/in/dinh-huynh)                         
-
-[**GitHub**](https://github.com/DinhLeGaulois2)
-
----
-
-## FLUENT IN:		
-```
-English, French and Vietnamese
-```
-
-## EDUCATION:	
-
-> * University of Central Florida **Full Stack Certificate** - Completed: April 2017
-> * University of Denis-Diderot, Paris, France, **B.S. in Computer Science** - Completed: July 2004
-> * University of Denis-Diderot, Paris, France, **M.S. in Computer Science** - First Year Completed: July 2006
+## OBJECTIVE : 
+> •	Seeking a Front-end Web Developer role preferably with React, React-Redux (preferred) or Angular.
+> •	Seeking a Back-end Web Developer role with Express-NodeJS combining with SQL-Sequelize or MongoDB-Mongoose.
 
 
-## TECHNICAL SKILLS:		
+##SKILLS SUMMARY: 
+building 3-tier architecture apps (full stack). Finishing a project which could be used by schools, teachers, libraries or individuals: a document’s classification system using Dewey Decimal System (https://github.com/DinhLeGaulois2/dewey-decimal-system). I work on this project alone, from A to Z: 
+> •	Security: JWT, Passport and BCrypt
+> •	Front-end: React-Redux
+> •	Back-end: Express/NodeJS
+> •	Database: SQL (74 tables) and Sequelize as ORM
 
-> * **CMS**: **WordPress** (with **AWS**)
-> * **Authentication/Authorization**: **Auth0**, **fireBase** <br/>
-> * **Mobile App**: Ionic 2 (**iOS** and **Android**)<br/>
-> * **Client Side**: **SASS**/CSS - **ReactJS/Redux** - **Angular 2** - Handlebars <br/>
-> * **Server Side**: **PHP**, Node.js - Express - ORM - Sequelize <br/>
-> * **Datasource Side**: **MySQL/sqlite3** - **MongoDB/mLab** - **Firebase** <br/>
-> * **Others**: Heroku, **Git**  <br/>                                     
 
-## WEB DEVELOPMENT EXPERIENCE
+## WEB DEVELOPMENT EXPERIENCE:
+> •	WordPress (http://www.dinhlegaulois.net)
+> •	Projects (http://dinhlegaulois.net/coding-projects/)
 
-### [WordPress](http://www.dinhlegaulois.net/)
 
-### [Projects](http://www.dinhlegaulois.net/coding-projects/)
+## OTHER TECHNICAL SKILLS:
+> •	MERN and MEAN stack
+> •	CSS/SASS
+> •	Angular 2/5
+> •	MongoDB/Mongoose
 
-## PREVIOUS WORK EXPERIENCE
 
-|Company|Function|Date|
-|---|---|---|
-| Davita (Deland, Florida) | Bio/Chemistry - Lab Assistant | 2015-2016 |	
-| Rotisserie (Paris, France) | Co-Owner | 2004-2012 |
+## WORK EXPERIENCES:A
+> •	DaVita Lab, Deland, Florida - Lab Assistant - 2015-2016
+> •	Rotisserie, Paris, France - Co-Owner - 2004-2012
+
+## EDUCATION:  
+> •	Full Stack Certificate, University of Central Florida - 2016-2017
+> •	M.S. in Computer Science, University of Paris, France - 2004-2006
+
+
+## FLUENT IN:
+> •	English
+> •	French
+> •	Vietnamese
