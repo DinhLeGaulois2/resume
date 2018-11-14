@@ -14,11 +14,7 @@ building 3-tier architecture apps (full stack). Finishing a project which could 
 > *	**Security**: JWT, Passport and BCrypt
 > *	**Front-end**: React-Redux
 > *	**Back-end**: Express/NodeJS
-<<<<<<< HEAD
 > *	**Database**: SQL (96 tables) and Sequelize as ORM
-=======
-> *	**Database**: SQL (74 tables) and Sequelize as ORM
->>>>>>> 1b7cf8829308d142cc7cf36ba2ee396cdf26c650
 
 
 ## WEB DEVELOPMENT EXPERIENCE:
@@ -35,10 +31,7 @@ building 3-tier architecture apps (full stack). Finishing a project which could 
 
 ## WORK EXPERIENCES:
 > *	DaVita Lab, Deland, Florida - Lab Assistant - 2015-2016
-<<<<<<< HEAD
 > 
-=======
->>>>>>> 1b7cf8829308d142cc7cf36ba2ee396cdf26c650
 > *	Rotisserie, Paris, France - Co-Owner - 2004-2012
 
 ## EDUCATION:  
