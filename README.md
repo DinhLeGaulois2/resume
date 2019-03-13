@@ -1,6 +1,6 @@
 # Dinh HUYNH - Full Stack Web Developer
 
-> 1041 Bella Vida Blvd • Orlando, Fl 32828 • dinh.hu19@yahoo.com • 407-504-9838
+> 9685 51st AVE S Seattle, WA 98118 • dinh.hu19@yahoo.com • 206-822-0453
 
 > https://github.com/DinhLeGaulois2 • http://www.dinhlegaulois.net • www.linkedin.com/in/dinh-huynh
 
