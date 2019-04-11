@@ -15,6 +15,7 @@ building 3-tier architecture apps (full stack). Finishing a project which could 
 > *	**Front-end**: React-Redux
 > *	**Back-end**: Express/NodeJS
 > *	**Database**: SQL (96 tables) and Sequelize as ORM
+> *	**Agile/Scrum**
 
 
 ## WEB DEVELOPMENT EXPERIENCE:
